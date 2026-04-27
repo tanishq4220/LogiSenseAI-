@@ -1,0 +1,27 @@
+{
+  "VH001": [
+    {"lat": 18.5204, "lng": 73.8567, "name": "Warehouse A"},
+    {"lat": 18.5254, "lng": 73.8617, "name": "Customer Zone 1"},
+    {"lat": 18.5304, "lng": 73.8667, "name": "Distribution Hub"}
+  ],
+  "VH002": [
+    {"lat": 18.5104, "lng": 73.8467, "name": "Warehouse B"},
+    {"lat": 18.5054, "lng": 73.8417, "name": "Customer Zone 2"},
+    {"lat": 18.5004, "lng": 73.8367, "name": "Distribution Hub"}
+  ],
+  "VH003": [
+    {"lat": 18.5304, "lng": 73.8467, "name": "Warehouse C"},
+    {"lat": 18.5354, "lng": 73.8417, "name": "Customer Zone 3"},
+    {"lat": 18.5404, "lng": 73.8367, "name": "Distribution Hub"}
+  ],
+  "VH004": [
+    {"lat": 18.5104, "lng": 73.8667, "name": "Warehouse D"},
+    {"lat": 18.5054, "lng": 73.8717, "name": "Customer Zone 4"},
+    {"lat": 18.5004, "lng": 73.8767, "name": "Distribution Hub"}
+  ],
+  "VH005": [
+    {"lat": 18.5204, "lng": 73.8567, "name": "Warehouse A"},
+    {"lat": 18.5154, "lng": 73.8667, "name": "Customer Zone 5"},
+    {"lat": 18.5104, "lng": 73.8767, "name": "Distribution Hub"}
+  ]
+}
