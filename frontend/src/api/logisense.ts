@@ -29,3 +29,4 @@ export const stopStream = () => api.post('/vehicles/stop-stream').then(res => re
 export const optimizeFleet = (data: any) => api.post('/optimize-fleet', data).then(res => res.data);
 export const getCarbonReport = () => api.get('/carbon/daily-report').then(res => res.data);
 export const sendVoiceCommand = (data: {transcript: string}) => api.post('/voice/command', data).then(res => res.data);
+export const optimizeChatRoute = (message: string) => axios.post('https://logisense-ai-backend-1417068932.asia-south1.run.app/api/v1/chat', { message, history: [] }).then(res => res.data);
